@@ -8,6 +8,6 @@ Author
 | Name: `Nitin Madhok`_
 
 .. _Nitin Madhok: http://www.github.com/nmadhok
-| Email: `nmadhok@clemson.edu`_
+| Email: `nmadhok@g.clemson.edu`_
 
-.. _nmadhok@clemson.edu: mailto:nmadhok@clemson.edu?subject=Regarding\ Panorama\ GitHub\ Project
+.. _nmadhok@clemson.edu: mailto:nmadhok@clemson.edu?subject=Regarding\ backup-manager\ Project
