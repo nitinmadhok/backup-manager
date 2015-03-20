@@ -10,4 +10,4 @@ Author
 .. _Nitin Madhok: http://www.github.com/nmadhok
 | Email: `nmadhok@g.clemson.edu`_
 
-.. _nmadhok@clemson.edu: mailto:nmadhok@clemson.edu?subject=Regarding\ backupmanager\ Project
+.. _nmadhok@g.clemson.edu: mailto:nmadhok@clemson.edu?subject=Regarding\ backup-manager\ Project
